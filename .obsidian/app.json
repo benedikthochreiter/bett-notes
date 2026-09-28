@@ -2,5 +2,6 @@
   "userIgnoreFilters": [
     "README.md"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
