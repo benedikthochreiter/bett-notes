@@ -21,9 +21,9 @@ corporation: capital comes together, people are just employed
 
 
 Legal Forms:
-- non-registered or registered [[Sole Trader]]: one person is fully liable, works alone and owns the company alone
+- non-registered or registered [[BWM/Business/Sole Trader]]: one person is fully liable, works alone and owns the company alone
 - Cooperations:
-	- [[OG]] (Offene Gesellschaft): atleast 2 people come together, both person are boss and run the company, both are fully liable (with their private fortune and their own and the other people's decisions)
+	- [[BWM/Business/OG]] (Offene Gesellschaft): atleast 2 people come together, both person are boss and run the company, both are fully liable (with their private fortune and their own and the other people's decisions)
 	- [[BWM/Business/KG]] (Kommanditgesellschaft): minimum 2 people, atleast one person has to be fully liable (Komplementär), and one with the only the money he put into the company (the money he promised the company, Kommanditist): e.g.: Hofer
 	- Stille Gesellschaft
 	- GesbR: usually formed when larger companies come together to build a project
@@ -35,4 +35,4 @@ Legal Forms:
 
 
 Related to:
-[[Sole Trader]] [[Company Register]]
+[[BWM/Business/Sole Trader]] [[Company Register]]
